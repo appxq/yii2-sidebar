@@ -11,11 +11,11 @@
         }
     ],
     "require": {
-        "yiisoft/yii2": "*"
+        
     },
     "autoload": {
         "psr-4": {
-            "appxq\\widgets\\": ""
+            "appxq\\sidebar\\": ""
         }
     }
 }
